@@ -1,0 +1,57 @@
+
+.cliente__info{
+    padding: 30px;
+}
+
+.cte__contenedor{
+    margin-bottom: 50px;
+}
+
+.cte__contenedor:hover{
+    background-color: #e8e8e8;
+}
+
+.cliente__btn{
+    border: none;
+    display: block;
+    margin: 0 auto;
+    padding: 5px 20px;
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.cliente__btn:hover{
+    transform: translateX(5px);
+    
+}
+
+.btn__ver{
+    background-color: rgb(211, 110, 1);
+    margin-bottom: 5px;
+}
+
+.btn__ver:hover{
+    background-color: rgb(184, 96, 2);
+
+}
+
+.btn__editar{
+    background-color: #324968;
+    margin-bottom: 5px;
+}
+
+.btn__editar:hover{
+    background-color: #17283f;
+}
+
+.btn__eliminar{
+    background-color: red;
+}
+
+.btn__eliminar:hover{
+    background-color: rgb(179, 2, 2);
+}
+

@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "maestra berenice ",
+      "empresa": "grupo educativo imei",
+      "correo": "correo@correo.com",
+      "telefono": "4242424242",
+      "notas": "tarda en pagar",
+      "id": 3
+    },
+    {
+      "nombre": "dr antonio mere",
+      "empresa": "cirugía plástica",
+      "correo": "correo@correo.com",
+      "telefono": "76988765434567",
+      "notas": "opoopopopopopopopopopopopop",
+      "id": 4
+    },
+    {
+      "nombre": "Gianna Michaels",
+      "empresa": "zzz",
+      "correo": "correo@correo.com",
+      "telefono": "4242424242",
+      "notas": "contratación de planta",
+      "id": 5
+    },
+    {
+      "nombre": "dr jorge",
+      "empresa": "Dermatología",
+      "correo": "correo@correo.com",
+      "telefono": "22222222",
+      "notas": "fecha de pagos los días 5 de cada mes",
+      "id": 6
+    }
+  ]
+}

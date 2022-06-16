@@ -1,0 +1,31 @@
+.verCte__contenedor{
+    margin-top: 20px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    -webkit-box-shadow: 1px 10px 24px -2px rgba(133,133,133,0.3);
+    -moz-box-shadow: 1px 10px 24px -2px rgba(133,133,133,0.3);
+    box-shadow: 1px 10px 24px -2px rgba(133,133,133,0.3);
+}
+
+.verCte__titulo{
+    margin-bottom: 20px;
+}
+
+.verCte__subtitulo{
+    font-weight: 200;
+}
+.verCte__info{
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.verCte__info__span{
+    font-weight: 200;
+}
+
+@media (min-width: 768px){
+    .verCte__contenedor{
+        margin-top: 40px;
+    }
+}
